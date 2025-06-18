@@ -142,9 +142,9 @@ La API de Crossref tiene límites de velocidad. La aplicación incluye:
 Las contribuciones son bienvenidas. Para contribuir:
 
 1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
+2. Crea una rama  (`git checkout -b nueva_rama`)
+3. Commit tus cambios (`git commit -m 'Agrega una nueva característica'`)
+4. Push a la rama (`git push origin nueva_rama`)
 5. Abre un Pull Request
 
 ## 📄 Licencia
@@ -154,7 +154,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📧 Contacto
 
 Si tienes preguntas, sugerencias o encuentras algún error, puedes:
-- Abrir un [issue](https://github.com/tu-usuario/doi-metadata-extractor/issues)
 - Contactar al desarrollador: [inktenorio@gmail.com]
 
 ## 🙏 Agradecimientos
