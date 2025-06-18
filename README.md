@@ -24,7 +24,12 @@ Una aplicación web desarrollada en Streamlit que permite extraer metadatos de D
 - **Fecha de emisión**
 - **Fecha de publicación**
 
-## 🛠️ Instalación Local
+## 🌐 Aplicación en Línea (gratis)
+
+Puedes usar la aplicación directamente sin instalación en:
+**[https://doi-metadata-extractor.streamlit.app](https://doi-metadata-extractor.streamlit.app)**
+
+## 🛠️ Instalación Local (opcional)
 
 ### Requisitos Previos
 
@@ -62,12 +67,7 @@ Una aplicación web desarrollada en Streamlit que permite extraer metadatos de D
 
 La aplicación se abrirá automáticamente en tu navegador en `http://localhost:8501`
 
-## 🌐 Aplicación en Línea
-
-Puedes usar la aplicación directamente sin instalación en:
-**[https://doi-metadata-extractor.streamlit.app](https://doi-metadata-extractor.streamlit.app)**
-
-## 📖 Cómo Usar
+## 📖 Cómo Usar la App
 
 ### 1. Preparar tus Datos
 - Crea un archivo CSV o Excel con una columna que contenga DOIs
